@@ -42,7 +42,7 @@ As a professional computer programmer and database designer with degrees in biol
 - Genome-directed primers for selective labeling of bacterial transcripts for DNA microarray analysis&rdquo; (<em>Nature Biotechnology</em>, Vol. 18, No. 6, 2000) <a href="http://www.ncbi.nlm.nih.gov/pubmed/10835610">[article]</a></li>
 
 <h3>My Approach to Database Design</h3>
-I am a database design specialists. My sophisticated hand-crafted database design will save your organization significant time and money.
+I am a database design specialist. My sophisticated hand-crafted database design will save your organization significant time and money.
 
 I am a serious professional with over 20 years of experience as a programmer and database specialist. My emphasis has been on creating elegant SQL database design integrated with user-friendly front-end software (desktop and web applications).
 
