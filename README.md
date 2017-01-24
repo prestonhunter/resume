@@ -1,15 +1,15 @@
-# resume
-Preston Hunter, database designer: resume and information
+# Resume
+[Preston Hunter](https://www.upwork.com/o/profiles/users/_~012ab645e1d96a5c7f/), database designer: resume and information
 
-I have over 20 years of experience as an expert relational database designer. I currently favor MySQL and PHP for most new projects, but I have extensive experience with a wide variety of Relational Database Management Systems (RDBMS) and programming languages.
+I have **over 20** years of experience as an **expert** [relational database](https://en.wikipedia.org/wiki/Relational_database) designer. I currently favor [MySQL](https://www.mysql.com) and [PHP](http://php.net) for most new projects, but I have **extensive** experience with a wide variety of [Relational Database Management Systems](https://en.wikipedia.org/wiki/Relational_database_management_system) (RDBMS) and programming languages.
 
 <h3>Employment Experience</h3>
 
-Data Chief | Center for Personalized Diagnostics, Biodesign Institute
+**Data Chief** | Center for Personalized Diagnostics, [Biodesign Institute](https://biodesign.asu.edu)
 July 2011 - Present
 Heading up large-scale software applications and websites build around scientific data and sophisticated databases.
 
-Senior Programmer | Center for Innovations in Medicine, Biodesign Institute
+**Senior Programmer** | Center for Innovations in Medicine, Biodesign Institute
 June 2005 - June 2011
 
 Programmer | Center for Biomedical Inventions, University of Texas Southwestern Medical Center
@@ -18,17 +18,17 @@ June 1998 - June 2005
 Programmer Analyst | Digital Technology International
 June 1995 - January 1997
 
-Art Director | Newtah News Group
+**Art Director** | Newtah News Group
 June 1993 - June 1995
 Extensively used Adobe Illustrator, Adobe Photoshop and QuarkXPress in preparing photos and ads for 3 newspapers.
 
 
 <h3>Education</h3>
-Bachelor of Applied Science (B.A.Sc.), Computer science | American Institute For Computer Sciences
+Bachelor of Applied Science (B.A.Sc.), **Computer science** | American Institute For Computer Sciences
 2005 - 2008
 AICS is based in Birmingham, Alabama. Traditional computer science degree emphasizing project management, high-level engineering principals, and hands-on application development and programming using low-level, close-to-the-compiler  languages and techniques, especially C and C++.
 
-Bachelor of Applied Science (B.A.Sc.), Conservation Biology | Brigham Young University
+Bachelor of Applied Science (B.A.Sc.), **Conservation Biology** | Brigham Young University
 1999 - 2005
 B.S. degree is essentially environmental biology/macrobiology. Minor in Computer Programming /  Languages. Bachelors degree entailed a full range of zoological and cellular-level biological courses,  with some botanical courses. Minor entailed both linguistic and computer science courses, including courses in C++ and RAD (Rapid Application Development) development tools.
 
@@ -42,13 +42,13 @@ As a professional computer programmer and database designer with degrees in biol
 - Genome-directed primers for selective labeling of bacterial transcripts for DNA microarray analysis&rdquo; (<em>Nature Biotechnology</em>, Vol. 18, No. 6, 2000) <a href="http://www.ncbi.nlm.nih.gov/pubmed/10835610">[article]</a></li>
 
 <h3>My Approach to Database Design</h3>
-I am a database design specialist. My sophisticated hand-crafted database design will save your organization significant time and money.
+I am a **database design specialist**. My **sophisticated hand-crafted** database design will save your organization significant time and money.
 
-I am a serious professional with over 20 years of experience as a programmer and database specialist. My emphasis has been on creating elegant SQL database design integrated with user-friendly front-end software (desktop and web applications).
+I am a serious professional with over 20 years of experience as a programmer and database specialist. My emphasis has been on creating **elegant** SQL database design integrated with user-friendly front-end software (desktop and web applications).
 
 I have worked mainly as a database designer, programmer and database administrator for bioinformatics, biochemistry, molecular biology, and biomedical research applications. I  also have extensive experience programming database-centric software (websites, web applications, desktop applications) for publishing, business, financial, personnel and other purposes.
 
-One of the things I enjoy most is creating database schemas which make sense for both programmers and non-programmers, designing with an eye toward flawless data integrity, maximum maintainability and optimal performance. I love crafting websites and web applications which perform with shocking speed. It makes for a better experience for users, developers and administrators. My expertly designed database systems - with well-written queries, intelligently chosen indices, and sensible caching strategies - can easily perform 10 to 100 times faster (using the same underlying hardware).
+One of the things I enjoy most is creating database schemas which make sense for both programmers and non-programmers, designing with an eye toward **flawless data integrity**, **maximum maintainability** and **optimal performance**. I love crafting websites and web applications which perform with **shocking speed**. It makes for a better experience for users, developers and administrators. My expertly designed database systems - with well-written queries, intelligently chosen indices, and sensible caching strategies - can easily **perform 10 to 100 times faster** (using the same underlying hardware).
 
 My emphasis when working with clients is on their data and system usability, not specific trends or technologies. But in case you're wondering about some specifics, I strongly believe that the database data should be integrated with but also somewhat independent from a presentation/application layer. Data in the database should be easily accessible from one or many different applications built using one or multiple different technologies. Currently I favor PHP/JavaScript/HTML5 for web applications, RealBasic/Real Studio/Xojo for cross-platform applications [Mac OS X/Windows/Linux], Xcode for Mac OS X-only/iOS applications, Visual Studio for Windows desktop applications. I prefer using MySQL for back-end RDBMS, but I also use Oracle, Microsoft MS SQL Server, PostgreSQL and SQLite on a regular basis.
 
