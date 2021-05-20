@@ -6,20 +6,20 @@ I have **over 20** years of experience as an **expert** [relational database](ht
 
 ## Employment Experience
 
-- **Data Chief** | Center for Personalized Diagnostics, [Biodesign Institute](https://biodesign.asu.edu)
+- **Data Chief**: Center for Personalized Diagnostics, [Biodesign Institute](https://biodesign.asu.edu)
 July 2011 - Present
 Heading up large-scale software applications and websites build around scientific data and sophisticated databases.
 
-- **Senior Programmer** | Center for Innovations in Medicine, Biodesign Institute
+- **Senior Programmer**: Center for Innovations in Medicine, Biodesign Institute
 June 2005 - June 2011
 
-- Programmer | Center for Biomedical Inventions, University of Texas Southwestern Medical Center
+- **Programmer**: Center for Biomedical Inventions, University of Texas Southwestern Medical Center
 June 1998 - June 2005
 
-- Programmer Analyst | Digital Technology International
+- **Programmer Analyst**: Digital Technology International
 June 1995 - January 1997
 
-- **Art Director** | Newtah News Group
+- **Art Director**: Newtah News Group
 June 1993 - June 1995
 Extensively used Adobe Illustrator, Adobe Photoshop and QuarkXPress in preparing photos and ads for 3 newspapers.
 
